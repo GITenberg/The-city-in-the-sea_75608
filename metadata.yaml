@@ -1,0 +1,62 @@
+_repo: The-city-in-the-sea_75608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stacpoole, H. De Vere (Henry De Vere)
+    aliases:
+    - Stacpoole, Henry De Vere
+    - Stacpoole, H. de Vere
+    birthdate: 1863
+    deathdate: 1951
+    gutenberg_agent_id: '219'
+    url: http://www.gutenberg.org/2009/agents/219
+    wikipedia: https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
+description: 'Reading ease score: 80.8 (6th grade). Easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Science-Fiction & Fantasy'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75608'
+  lccn: '27026386'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435001090018
+pgterms:marc905: 20230422161451stacpoole
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Aaron Adrignola, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York, NY :$bGeorge H. Doran Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Extinct cities -- Fiction'
+- !lcsh 'British -- Greece -- Fiction'
+- !lcsh 'Underwater cultural heritage -- Fiction'
+- !lcsh 'Greece -- Antiquities -- Fiction'
+- !lcc 'PR'
+- GITenberg
+summary: '"The City in the Sea" by H. De Vere Stacpoole is a novel written in the
+  early 20th century. The narrative begins with a foreword explaining the author''s
+  inspiration and connection to the discovery of submerged cities in the Mediterranean,
+  hinting at a blend of adventure and romance. The story follows Robert Lestrange,
+  a young writer, as he navigates his personal and professional life in London, intertwining
+  the themes of love, exploration, and the fondness for the sea as he embarks on an
+  expedition to uncover treasures from the submerged city of Hyalos.  At the start
+  of the novel, we are introduced to Robert Lestrange, who is trying to find his place
+  in the world as both a writer and a person dealing with the loss of his father.
+  He meets Martia Hare, an ambitious and insightful woman who works at a literary
+  agency, and together they explore the challenges of life and writing. Their conversations
+  reveal Robert''s lack of experience and his newfound determination. The narrative
+  quickly develops to include an intriguing proposition from Jacob Behrens, who has
+  plans for an adventurous treasure hunt to Hyalos, a city submerged under the sea.
+  This sets the stage for a thrilling journey, as Robert is faced with the choice
+  of diving into an unpredictable adventure, sharing the experience with Martia, and
+  potentially uncovering the secrets of the past. (This is an automatically generated
+  summary.)'
+title: The city in the sea
+url: http://www.gutenberg.org/ebooks/75608
