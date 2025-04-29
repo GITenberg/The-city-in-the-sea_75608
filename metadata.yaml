@@ -1,5 +1,8 @@
 _repo: The-city-in-the-sea_75608
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75608-h/images/cover.jpg
 creator:
   author:
     agent_name: Stacpoole, H. De Vere (Henry De Vere)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/219
     wikipedia: https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
 description: 'Reading ease score: 80.8 (6th grade). Easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75608#The-city-in-the-sea
 gutenberg_bookshelf:
 - 'Browsing: Science-Fiction & Fantasy'
 - 'Browsing: Fiction'
